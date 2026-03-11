@@ -28,7 +28,7 @@ export default function HomePage() {
               <span aria-hidden>→</span>
             </Link>
             <a
-              href="#"
+              href="https://form.typeform.com/to/jXQC8kTT"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 border border-night dark:border-parchment text-night dark:text-parchment font-sans text-sm font-semibold px-6 py-3 rounded-lg hover:border-gold hover:text-gold dark:hover:border-gold dark:hover:text-gold transition-colors"
@@ -56,7 +56,7 @@ export default function HomePage() {
               Your voice shapes what this becomes.
             </p>
             <a
-              href="#"
+              href="https://form.typeform.com/to/jXQC8kTT"
               target="_blank"
               rel="noopener noreferrer"
               className="font-sans text-sm text-gold underline underline-offset-4 hover:text-soft-gold transition-colors"

@@ -3,53 +3,61 @@ title: "The Manifesto"
 subtitle: "ዘይንድይቦ ጎቦ ዘይንሰግሮ ሩባ"
 ---
 
-We have more in common than what divides us. And if we can see each other clearly, the work we do, the hopes we carry, the future we share, we will find our way back to each other. And that is how we rebuild Tigray.
+It is a strange and unique time to be Tigrayan.
 
-That is the belief behind everything you will read on this site.
+Now more than ever, we have more in common than what divides us. And if we can see each other clearly, the work we do, the hopes we carry, the future we share, we will find our way back to each other. 
+
+That is how we rebuild Tigray for the last time and finally focus on thriving, in the motherland and the diaspora.
+
+That is the prevailing belief behind everything you will read on this site.
 
 ---
 
-We are an ancient people. Our history stretches back thousands of years. Through the Kingdom of Aksum. Through the rock-hewn churches of the Geralta mountains. Through centuries of poetry, faith, resistance, and renewal. We are the people of 13 months of sunshine. We are the people who say there are no mountains we would not climb, no rivers we would not cross.
+How can you be Tigrayan and not think that?
 
-And yet.
+We are an ancient people. Our history stretches back thousands of years, to biblical times. Through the Kingdom of Aksum. Through the rock-hewn churches of the Geralta mountains. Through centuries of poetry, faith, resistance, and renewal. We literally say there are no mountains we would not climb.
 
-The Tigray we carry in our hearts is not the Tigray that exists today.
+The only issue is that Tigray we carry in our hearts and speak about proudly is not the Tigray that exists today.
 
 In November 2020, a war was waged on our people. What followed was devastation on a scale that most of the world still does not understand. Hundreds of thousands killed. Millions displaced. Women and girls subjected to weaponized sexual violence so systematic that international commissions have called it genocide. Ancient heritage sites bombed and looted, not as collateral damage, but as cultural erasure. Hospitals destroyed. Schools shuttered. Telecommunications severed so that the world could not see and our families could not speak.
 
 A cessation of hostilities was signed in Pretoria in November 2022. But the peace it promised has been incomplete. Eritrean forces remain on Tigrayan soil. Over 878,000 of our people are still displaced from their homes. Western Tigray remains occupied. No one has been held accountable. And now, as factions within our own leadership fracture and regional tensions rise, the threat of another war grows by the day.
 
-The humanitarian needs left by this war will take decades to address. This is not a short-term emergency. This is generational work.
+The humanitarian needs left by this war will take decades to address. This is not a short-term emergency. This is generational work, when we already had our work cut out for us.
 
 ---
 
-And the diaspora, the millions of us scattered across continents, we are the ones with the freedom, the resources, and the reach to act.
+Here in the diaspora, the millions of us scattered across continents, we are the ones with the freedom, the resources, and the reach to act.
 
-But we are disconnected.
+The issue though is no different than what it has always been: the diaspora is divided. 
 
-The diaspora is divided. Between those with money and those without it. Between those in power and those who want it. Between the old who cling to outdated parts of the culture and the youth who want to make things better.
+In so many different ways too.
 
-The state of Tigray itself is divided. We can't seem to agree with ourselves, for many of the same reasons. Nepotism. Corruption. The quiet politics of self-interest. Our government is split between those wanting to secede and those who aspire for power within Ethiopia.
+Between those with money and those without it. Between those in power and those who want it. Between the old who cling to outdated parts of the culture and the youth who want to make things better. Between people from different cities. 
+
+The state of Tigray itself is divided. We can't seem to agree with ourselves, for many of the same reasons. Supporting the interim government or TPLF is a new one. But all of the old divisions exist too: Nepotism. Corruption. The quiet politics of self-interest. Those wanting to secede and those who aspire for power within Ethiopia.
 
 We can't seem to agree enough to move together. Too many agendas, personal and organizational, pulling in different directions.
 
 I have watched meetings where dozens of organizations, people who share the same goals, lose hours to reactive arguments that could have been resolved with a simple conversation. Energy that should go toward the work goes instead toward the disagreement. And over time, the people willing to do the work grow fewer, because the obstacles never seem to come from the people doing it.
 
-It is discouraging. I will not pretend otherwise.
+It is unique to us, of course, if you look at countries like the United States or Great Britain. 
 
-But we all agree on a core premise.
+Even with that context it is still disappointing, because we have more in common as Tigrayans than two random people from the US or UK.
+
+That isn't to say we don't all agree on a core premise.
 
 We want Tigray to be a safe, hospitable, and evergreen place. The Tigray we grew up in, learned about, or have dreamed of.
 
 ---
 
-This starts by finding common ground amongst each other.
+This starts by finding common ground amongst each other and rooting in that first and foremost.
 
-A personal agenda be damned when it means the safety of young women.
+Does a personal agenda matter when the safety of women is on the line?
 
-A political agenda be damned when it means the health of the elderly who created us.
+Does a political agenda matter if the health of the elderly who created us is in jeopardy?
 
-An organisational agenda be damned when it means the future of the youth can be promising and as bright as our 13 months of sunshine.
+Does any agenda matter more than making sure the future of all Tigrayan youth can be promising and bright as we want for our own children?
 
 ---
 
@@ -93,7 +101,7 @@ No longer do any of us wish for Tigray to be rebuilt.
 
 We simply wish it to be built — and thriving of its own accord.
 
-We called this platform Rebuild Tigray because that is where the work starts. But the destination is not restoration. We are not trying to go back. We are looking for the future, while keeping our history. We want to move past what has held us back and carry our history finally into the future.
+The irony behind calling this platform Rebuild Tigray is because this is where the work starts. The final destination is not restoration either. We are not trying to go back. We are looking for the future, while keeping our history. We want to move past what has held us back and carry our history finally into the future.
 
 That starts with recognizing what we have in common with each other and focusing on what actually matters:
 
@@ -107,17 +115,23 @@ And the togetherness of the diaspora, through which we can accomplish so many th
 
 ---
 
-That last one, togetherness, is the one I can affect the most.
+That last one, togetherness, is the one we here can affect the most.
 
-This is not about me. Who I am, what I do for a living, where I live — none of that matters. What matters is the decision to build a stage and try to bring people together. What matters is what happens on that stage.
+What we can do is this: highlight those in the diaspora — individuals and their organizations — and bring their stories and their words to the people directly. We can bring light to ways we can get connected across the diaspora. For those who want to reconnect or those moving cities and continents.
 
-What I can do is this: highlight those in the diaspora — individuals and their organizations — and bring their stories and their words to the people directly. They are the ones doing the tiresome work on the core issues. They are the ones who deserve to be seen.
+I believe that visibility creates empathy. That empathy creates common ground. And that common ground creates collaboration. 
 
-I believe that visibility creates empathy. That empathy creates common ground. And that common ground creates collaboration. This is not a perhaps. This is the bet.
+We believe that creating connections leads to lasting impact. 
 
-By giving a glimpse of their work, unblemished and without agenda, we can see what drives the people doing this work. We can realize that we share more than we thought. And from that common ground, more voices, more hands, more ears, and more brains will find their way to the right causes.
+And to be explicitly clear: this is not a perhaps. This is **the** bet.
+
+By giving a glimpse of the work, unblemished and without agenda, we can see what drives the people doing this work. 
+
+We can realize that we share more than we thought. And from that common ground, more voices, more hands, more ears, and more brains will find their way to the right causes. 
 
 That will either bring the people already doing this work closer together, or it will inspire new people to join them.
+
+Strength in numbers, not just effort.
 
 Either way, we move closer to the common goal we all share: a rebuilt and thriving Tigray.
 
@@ -127,7 +141,9 @@ This is what Rebuild Tigray is.
 
 It is not a news outlet. It is not a political organization. It is not asking for your donations.
 
-It is a lens. Pointed at the people in this diaspora who are already doing the work, so that others might find them, learn from them, join them, or simply feel less alone in caring. Think of it as an aggregator of the great things happening across the diaspora. The work, the people, the stories. All in one place, with no spin and no agenda.
+It is a lens. Pointed at the people in this diaspora who are already doing the work, so that others might find them, learn from them, join them, or simply feel less alone in caring. 
+
+Think of it as an aggregator of the great things happening across the diaspora. The work, the people, the stories. All in one place, with no spin and no agenda.
 
 A directory of the organizations rebuilding Tigray, in their own words.
 
@@ -140,8 +156,6 @@ A gallery of what we are fighting for — the land, the people, the future.
 I regret and despise thinking of a future where the Tigrayan diaspora allowed itself to squabble and bicker itself into irrelevance.
 
 May that never happen.
-
-My future children deserve better. So do yours.
 
 ---
 

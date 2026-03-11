@@ -41,11 +41,13 @@ We can't seem to agree enough to move together. Too many agendas, personal and o
 
 I have watched meetings where dozens of organizations, people who share the same goals, lose hours to reactive arguments that could have been resolved with a simple conversation. Energy that should go toward the work goes instead toward the disagreement. And over time, the people willing to do the work grow fewer, because the obstacles never seem to come from the people doing it.
 
-It is unique to us, of course, if you look at countries like the United States or Great Britain. 
+The United States is divided. So is the United Kingdom. But those are societies built from dozens of different peoples, cultures, and histories. Division there makes a certain kind of sense.
 
-Even with that context it is still disappointing, because we have more in common as Tigrayans than two random people from the US or UK.
+We are one people. Same land. Same language. Same history going back thousands of years.
 
-That isn't to say we don't all agree on a core premise.
+That is what makes our divisions so discouraging.
+
+But we all agree on a core premise.
 
 We want Tigray to be a safe, hospitable, and evergreen place. The Tigray we grew up in, learned about, or have dreamed of.
 
@@ -156,6 +158,8 @@ A gallery of what we are fighting for — the land, the people, the future.
 I regret and despise thinking of a future where the Tigrayan diaspora allowed itself to squabble and bicker itself into irrelevance.
 
 May that never happen.
+
+My future children deserve better. So do yours.
 
 ---
 

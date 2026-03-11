@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer rings -->
+  <circle cx="100" cy="100" r="92" fill="none" stroke="#FAFAF7" stroke-width="2"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#FAFAF7" stroke-width="0.5" opacity="0.25"/>
+  <!-- Sun -->
+  <circle cx="100" cy="72" r="28" fill="#D4A843" opacity="0.9"/>
+  <!-- Mountain fill -->
+  <path d="M20 140 L55 80 L72 100 L100 72 L118 96 L135 76 L180 140 Z" fill="#FAFAF7" opacity="0.12"/>
+  <!-- Mountain line -->
+  <path d="M20 140 L55 80 L72 100 L100 72 L118 96 L135 76 L180 140" fill="none" stroke="#FAFAF7" stroke-width="1.8"/>
+  <!-- REBUILD TIGRAY on top arc -->
+  <path id="topArcDark" d="M25 95 A78 78 0 0 1 175 95" fill="none"/>
+  <text font-family="'Outfit', 'DM Sans', sans-serif" font-size="11" font-weight="600" letter-spacing="5" fill="#FAFAF7">
+    <textPath href="#topArcDark" startOffset="50%" text-anchor="middle">REBUILD TIGRAY</textPath>
+  </text>
+  <!-- Ge'ez motto on bottom arc -->
+  <path id="bottomArcDark" d="M30 125 A78 78 0 0 0 170 125" fill="none"/>
+  <text font-family="sans-serif" font-size="10" fill="#D4A843" opacity="0.85">
+    <textPath href="#bottomArcDark" startOffset="50%" text-anchor="middle">ዘይንድይቦ ጎቦ ዘይንሰግሮ ሩባ</textPath>
+  </text>
+</svg>

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+
+  body {
+    @apply bg-parchment text-night font-sans;
+  }
+
+  .dark body {
+    @apply bg-night text-parchment;
+  }
+
+  /* Smooth theme transitions — only after page load to avoid flash */
+  .theme-loaded body {
+    @apply transition-colors duration-200;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

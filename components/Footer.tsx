@@ -2,10 +2,6 @@ import Link from 'next/link'
 import { Emblem } from './Emblem'
 
 const links = [
-  { href: '/directory', label: 'Directory' },
-  { href: '/blog', label: 'Blog' },
-  { href: '/gallery', label: 'Gallery' },
-  { href: '/about', label: 'About' },
   { href: '/manifesto', label: 'Manifesto' },
 ]
 

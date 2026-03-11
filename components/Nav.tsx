@@ -7,10 +7,7 @@ import { HorizonMark } from './HorizonMark'
 import { ThemeToggle } from './ThemeToggle'
 
 const links = [
-  { href: '/directory', label: 'Directory' },
-  { href: '/blog', label: 'Blog' },
-  { href: '/gallery', label: 'Gallery' },
-  { href: '/about', label: 'About' },
+  { href: '/manifesto', label: 'Manifesto' },
 ]
 
 export function Nav() {

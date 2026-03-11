@@ -17,7 +17,7 @@ export default function HomePage() {
             We are not waiting.
           </h1>
           <p className="font-sans text-lg text-night dark:text-parchment max-w-lg leading-relaxed mb-12">
-            A platform of record for the Tigrayan diaspora.
+            There's strength in numbers.
           </p>
           <div className="flex flex-wrap gap-4">
             <Link
@@ -52,8 +52,7 @@ export default function HomePage() {
               We want to hear from you.
             </p>
             <p className="font-sans text-base text-night dark:text-parchment leading-relaxed mb-8">
-              What you are working on. What you need. What you wish existed.
-              Your voice shapes what this becomes.
+              This is early. Tell us what you're working on and what's missing.
             </p>
             <a
               href="https://form.typeform.com/to/jXQC8kTT"

@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import { Nav } from '@/components/Nav'
 import { Footer } from '@/components/Footer'
@@ -9,33 +10,55 @@ export default function HomePage() {
 
       <main>
         {/* Hero */}
-        <section className="px-6 pt-28 pb-24 md:pt-40 md:pb-36 max-w-5xl mx-auto">
-          <p className="font-sans text-sm font-medium tracking-widest text-gold uppercase mb-8">
-            rebuild-tigray.com
-          </p>
-          <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl leading-tight text-night dark:text-parchment max-w-3xl mb-8">
-            We are not waiting.
-          </h1>
-          <p className="font-sans text-lg text-night dark:text-parchment max-w-lg leading-relaxed mb-12">
-            There's strength in numbers.
-          </p>
-          <div className="flex flex-wrap gap-4">
-            <Link
-              href="/manifesto"
-              className="inline-flex items-center gap-2 bg-gold text-night font-sans text-sm font-semibold px-6 py-3 rounded-lg hover:bg-soft-gold transition-colors"
-            >
-              Read the manifesto
-              <span aria-hidden>→</span>
-            </Link>
-            <a
-              href="https://form.typeform.com/to/jXQC8kTT"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 border border-night dark:border-parchment text-night dark:text-parchment font-sans text-sm font-semibold px-6 py-3 rounded-lg hover:border-gold hover:text-gold dark:hover:border-gold dark:hover:text-gold transition-colors"
-            >
-              Share your voice
-              <span aria-hidden>→</span>
-            </a>
+        <section className="px-6 pt-28 pb-24 md:pt-40 md:pb-0 max-w-5xl mx-auto">
+          <div className="grid md:grid-cols-[1fr_360px] gap-12 md:gap-16 items-center">
+            {/* Text */}
+            <div className="md:pb-36">
+              <p className="font-sans text-sm font-medium tracking-widest text-gold uppercase mb-8">
+                rebuild-tigray.com
+              </p>
+              <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl leading-tight text-night dark:text-parchment max-w-3xl mb-8">
+                We are not waiting.
+              </h1>
+              <p className="font-sans text-lg text-night dark:text-parchment max-w-lg leading-relaxed mb-12">
+                There's strength in numbers.
+              </p>
+              <div className="flex flex-wrap gap-4">
+                <Link
+                  href="/manifesto"
+                  className="inline-flex items-center gap-2 bg-gold text-night font-sans text-sm font-semibold px-6 py-3 rounded-lg hover:bg-soft-gold transition-colors"
+                >
+                  Read the manifesto
+                  <span aria-hidden>→</span>
+                </Link>
+                <a
+                  href="https://form.typeform.com/to/jXQC8kTT"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 border border-night dark:border-parchment text-night dark:text-parchment font-sans text-sm font-semibold px-6 py-3 rounded-lg hover:border-gold hover:text-gold dark:hover:border-gold dark:hover:text-gold transition-colors"
+                >
+                  Share your voice
+                  <span aria-hidden>→</span>
+                </a>
+              </div>
+            </div>
+
+            {/* Illustration */}
+            <div className="hidden md:block self-end relative h-[520px]">
+              <Image
+                src="/images/hero-illustration.png"
+                alt="Tigrayans carrying the flag across the mountains"
+                fill
+                className="object-contain object-bottom"
+                priority
+              />
+              {/* Left fade — bleeds into page background */}
+              <div className="absolute inset-y-0 left-0 w-24 bg-gradient-to-r from-night to-transparent pointer-events-none" />
+              {/* Top fade — fades out sun and top edge */}
+              <div className="absolute inset-x-0 top-0 h-64 bg-gradient-to-b from-night via-night/80 to-transparent pointer-events-none" />
+              {/* Right fade — softens right edge */}
+              <div className="absolute inset-y-0 right-0 w-16 bg-gradient-to-l from-night to-transparent pointer-events-none" />
+            </div>
           </div>
         </section>
 

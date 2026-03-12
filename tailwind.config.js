@@ -72,6 +72,8 @@ module.exports = {
         },
         invert: {
           css: {
+            // Override the direct color property set in DEFAULT
+            color: theme('colors.parchment'),
             '--tw-prose-body': theme('colors.parchment'),
             '--tw-prose-headings': theme('colors.parchment'),
             '--tw-prose-links': theme('colors.gold'),

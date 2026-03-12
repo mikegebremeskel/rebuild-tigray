@@ -154,3 +154,90 @@ https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700
 - Don't crowd the logo — minimum clear space equal to the height of the sun element
 - Don't use pure black (#000000) — use Night (#1A1A1A) instead
 - Don't use pure white (#FFFFFF) for backgrounds — use Parchment (#FAFAF7)
+
+---
+
+## Responsive Design Standards
+
+The site must be fully usable at every screen size. Mobile is not an afterthought — a significant portion of the diaspora audience uses phones as their primary device.
+
+### Breakpoint System (Tailwind defaults)
+
+| Name | Width | When it activates |
+|------|-------|-------------------|
+| `sm` | 640px | Large phones, small tablets |
+| `md` | 768px | Tablets, desktop — primary layout switch |
+| `lg` | 1024px | Wide desktop |
+| `xl` | 1280px | Large desktop |
+
+**The key breakpoint is `md` (768px).** One-column below, multi-column above.
+
+### Layout Rules
+
+**Max widths:**
+- Global content cap: `max-w-5xl` (1024px) — prevents lines from stretching too wide on large screens
+- Reading content (manifesto, blog): `max-w-reading` (680px) — optimal line length for prose
+- Horizontal padding: `px-6` on all sections at all sizes
+
+**The pattern:**
+```tsx
+<section className="px-6 py-16 max-w-5xl mx-auto">
+  {/* content */}
+</section>
+```
+
+**Grids:**
+- 1 column on mobile, 2-3 on `md`+
+- Use `sm:grid-cols-2 lg:grid-cols-3` for card grids
+- Use `md:grid-cols-[1fr_360px]` for asymmetric hero layouts
+
+### Typography Responsiveness
+
+Text sizes should increase at larger breakpoints:
+
+| Element | Mobile | Desktop |
+|---------|--------|---------|
+| H1 (hero) | `text-5xl` (48px) | `md:text-6xl lg:text-7xl` |
+| H2 (section) | `text-3xl` | `md:text-4xl` |
+| Body (reading) | `text-base` (16px) | `text-reading` (18px) via prose |
+| Nav | `text-sm` | `text-sm` (consistent) |
+
+### Images
+
+- Always use `next/image` with `fill` + a sized parent container, or explicit `width`/`height`
+- Hero image: duplicate instances for significantly different layouts (`md:hidden` mobile / `hidden md:block` desktop)
+- Gradient overlays on images must use `dark:from-night` variants alongside `from-parchment`
+
+### Dark Mode
+
+**Every color must have a dark variant.** The pattern is always:
+```
+text-night dark:text-parchment
+bg-parchment dark:bg-night
+border-sand dark:border-white/10
+```
+
+**Prose dark mode:** Use `dark:prose-invert` on the `article` or `div` wrapping MDX content. The tailwind.config.js `invert` block must include an explicit `color` override (not just CSS variables) to ensure body text is visible:
+```js
+invert: {
+  css: {
+    color: theme('colors.parchment'),  // ← required, CSS vars alone won't work
+    '--tw-prose-body': theme('colors.parchment'),
+    // ...
+  }
+}
+```
+
+**Gradient overlays:** All gradient fades on images or section edges must specify both light and dark origins:
+```
+from-parchment dark:from-night
+```
+
+### Checklist Before Shipping Any Page
+
+- [ ] Text readable in both light and dark mode
+- [ ] Layout works at 375px (iPhone SE), 768px (tablet), 1280px (desktop)
+- [ ] All images have `alt` text
+- [ ] No horizontal scroll at any breakpoint
+- [ ] Touch targets (buttons, links) are at least 44×44px
+- [ ] Padding exists on all sides — nothing bleeds to the viewport edge on mobile

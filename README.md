@@ -4,7 +4,9 @@
 
 A platform that points a lens at the Tigrayan diaspora — the individuals and organizations already doing the tireless, often invisible work of rebuilding — so that others might find them, learn from them, join them, or simply feel less alone in caring.
 
-**Live site:** [rebuild-tigray.com](https://rebuild-tigray.com) · **Status:** active, building in public
+**Live site:** [rebuild-tigray.com](https://rebuild-tigray.com) · **Status:** a personal project · building in public
+
+*This is a personal project. I'm Tigrayan, I'm building it solo, and I'm not rushing it — I'd rather build it right than fast.*
 
 ---
 

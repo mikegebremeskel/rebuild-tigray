@@ -39,6 +39,7 @@ I designed and built this end to end — I made the product calls *and* wrote th
 - **[Product brief](docs/product-brief.md)** — the problem, who it's for, the strategy, what's in/out of scope and why, success metrics, and key risks.
 - **[Roadmap](docs/roadmap.md)** — Now / Next / Later, what I deliberately cut, and what I'd do differently.
 - **[Decision log](docs/decisions.md)** — the key product and engineering decisions, each with the trade-off I accepted.
+- **[Measurement plan](docs/measurement-plan.md)** — what I measure (and deliberately ignore) at each stage. The project is in a discovery phase right now.
 
 ## Tech stack
 

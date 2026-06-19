@@ -67,7 +67,7 @@ Honest framing: this is **early-stage**. The right metrics now are *leading indi
 - Weekly active contributors / new volunteers who report connecting *via* the site
 - Engagement among second-generation diaspora (the culture-loss risk this addresses)
 
-**Current state (honest):** pre-launch, minimal traffic, analytics not yet instrumented — that's the immediate next step (see [roadmap](roadmap.md)). I'd rather define the right metric and report zero than inflate a vanity one.
+**Current state (honest):** in a deliberate **discovery phase** — a Typeform is live gathering feedback to shape the next version, and product analytics are intentionally *not* instrumented yet (the right instrument at this stage is qualitative feedback, not a dashboard). See the [measurement plan](measurement-plan.md) for what we measure, and ignore, at each stage. I'd rather report an honest zero than inflate a vanity metric.
 
 ## Key risks
 

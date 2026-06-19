@@ -6,16 +6,17 @@ For the reasoning behind these priorities, see the [product brief](product-brief
 
 ---
 
-## Now — launch foundation
+## Now — discovery & foundation
 
-The goal of v1 is **trust and clarity**, not breadth. A small, credible, beautifully clear site beats a large, thin one.
+I'm deliberately in a **discovery phase**: gathering feedback to shape what this becomes before building more. The foundation is live; the priority is listening, not scaling. The goal of v1 is **trust and clarity**, not breadth — a small, credible, beautifully clear site beats a large, thin one.
 
 - [x] Manifesto — the "why," stated plainly up front
 - [x] Curated organization directory with detail pages (seed set of verified orgs)
 - [x] Stories / interviews structure (blog)
 - [x] Brand, design system, and writing style codified ([DESIGN.md](../DESIGN.md), [STYLE.md](../STYLE.md))
 - [x] Deployed and live on Vercel
-- [ ] **Instrument analytics** — can't manage what I can't measure; this is the top gap
+- [x] Typeform live to gather feedback on what the diaspora actually needs
+- [ ] **Synthesize feedback** into a clear direction for the next version (see [measurement plan](measurement-plan.md))
 - [ ] Replace placeholder interview content with one real, consented interview
 - [ ] About page polish + clear "submit your org" contact path
 
@@ -27,6 +28,7 @@ Once the foundation reads as credible, grow coverage and depth — still curated
 - Publish a regular cadence of real stories/interviews
 - Build out the gallery (the emotional "what we're fighting for" layer)
 - Lightweight org-submission intake (form → review → publish), keeping curation in the loop
+- Instrument discovery-funnel analytics — once there's real content and a hypothesis worth testing ([why not sooner](measurement-plan.md))
 
 ## Later — the network layer
 
@@ -47,5 +49,5 @@ Higher value, higher complexity. Deliberately deferred until there's an audience
 
 ## What I'd do differently / next-time notes
 
-- I should have **instrumented analytics from day one** — I defined success metrics but can't yet report against them. Defining the metric without the measurement is half a job.
+- I first treated "no analytics yet" as an overdue gap, then reconsidered: at the discovery stage the right instrument is **qualitative feedback, not a dashboard**. Measurement should follow the stage of the product — see the [measurement plan](measurement-plan.md). Knowing *what not to measure yet* is part of the job.
 - The interview content shipped as placeholder structure; I'd rather have launched with one *real* consented story than a template, even if it meant fewer pages.
